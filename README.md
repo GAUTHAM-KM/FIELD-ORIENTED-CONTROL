@@ -16,5 +16,9 @@ The aim is to achieve smooth torque and speed control with high efficiency and f
 ## Requirements
 - MATLAB/Simulink (R2020b or later recommended)
 - Simscape Electrical toolbox (for PMSM model)
+  #Learning
+  -Learn about all the transformations needed for FOC, like Clark, Park transform, and inverse Clark and Park transforms.
+  -SVM other blocks 
 
+In this Model, a 400V system is used ...
 
